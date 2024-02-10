@@ -1,0 +1,1 @@
+git --work-tree=/home/siriusx/saairpo --git-dir=/home/siriusx/saaipro/saaipro.git checkout -f
